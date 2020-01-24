@@ -32,7 +32,7 @@ If your question is about the course material and doesn't give away any hints fo
 |           | Lecture      | Lecture Room | Tutorial     | Tutorial Room   |
 |-----------|--------------|--------------|--------------|-----------------|
 | Section 1 | Tuesday 6-8  | LM 161       | Tuesday 8-9  | LM 161          |
-| Section 2 | Thursday 1-3 | MC 102       | Tuesday 12-1 | RW 117 / KP 108 |
+| Section 2 | Thursday 1-3 | MC 102       | Tuesday 12-1 | ES 1050 |
 
 <br/> 
 
