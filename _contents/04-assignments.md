@@ -36,5 +36,5 @@ The format will be similar to the past midterms from CSC321 and CSC421:
 
 - 2017: [version 1](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/practice_tests/midterm2017a.pdf), [version 2](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/practice_tests/midterm2017b.pdf), and [solutions](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/practice_tests/midterm2017_solutions.pdf)
 - 2018: [version 1](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/exams/midterm2.pdf), [version 2](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/exams/midterm1.pdf), and [solutions](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/exams/midterm_solutions.pdf)
-- 2019: [pdf](/assets/misc/midterm_2019.pdf), and [solutions](/assets/misc/midterm_solution_2019.pdf)
+- 2019: [pdf](/assets/misc/midterm_2019.pdf), and [solutions](/assets/misc/midterm_2019_solutions.pdf)
 
