@@ -19,4 +19,5 @@ Suggested readings included help you understand the course material. They are no
 | **Tutorial&nbsp;3** | Jan 28  | How to Train Neural Networks  | [slides](https://docs.google.com/presentation/d/1IFiD7w_vhvDIxOww8x8t_dSwRfTJ9n8vowfjkf_O-Sc/edit#slide=id.p), [ipynb](https://colab.research.google.com/drive/1FOtRNZNXjZPbocvvSbYbb-R0EySYy9EM)  | 
 | **Lecture&nbsp;5** | Feb 4/6  | Convolutional Neural Networks and Image Classification  | [Slides](/assets/slides/lec05.pdf)  | Roger Grosse's notes: [ConvNets](/assets/readings/L05a.pdf), [Image Classification](/assets/readings/L05b.pdf). Related papers: [Yann LeCun's 1998 LeNet](https://cs.nyu.edu/~yann/2010f-G22-2565-001/diglib/lecun-98.pdf), [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). 
 | **Tutorial&nbsp;4** | Feb 4  | Convolutional Neural Networks  | [ipynb](https://colab.research.google.com/drive/1sZWrtmHnJPz4p_YOIHbYryrQhsO4DOMD#scrollTo=9OJg-zlR-af2)  | 
+| **Tutorial&nbsp;5** | Feb 11  | Midterm review  |   | 
 | **Midterm** | Feb 14  |   | Feb 14, 6 - 8 pm. See above for the details and and past midterms.  | 
