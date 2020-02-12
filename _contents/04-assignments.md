@@ -11,7 +11,8 @@ image: ""
 | **Homework 1**   |  [pdf](/assets/misc/HW01.pdf)        | Jan. 20(out), due Jan. 27 
 | **Programming Assignment 1**   | [pdf](/assets/misc/PA01.pdf), [starter code](/assets/misc/a1-code.zip)       | Jan. 27(out), due Feb. 03 
 | **Homework 2**   |  [pdf](/assets/misc/HW02.pdf)        | Feb. 3(out), due Feb. 10 
-| **Programming Assignment 2**   |          | TBD 
+| **Programming Assignment 2**   | [pdf](/assets/misc/PA02.pdf), [starter code](https://colab.research.google.com/drive/11sH_zV08QvCAYrGDv83lI9-5mnmln3SV#scrollTo=JyzOT64xkqy6)       | Feb. 12(out), due Feb. 26 
+| **Homework 3**   |          | TBD 
 | **Course Project (CSC2516 only)**   |  [project guideline](/assets/misc/project_handout.pdf)        | Proposal due Mar. 2, final report due April 20. 
 
 <br/> 
