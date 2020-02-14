@@ -20,5 +20,5 @@ Suggested readings included help you understand the course material. They are no
 | **Lecture&nbsp;5** | Feb 4/6  | Convolutional Neural Networks and Image Classification  | [Slides](/assets/slides/lec05.pdf)  | Roger Grosse's notes: [ConvNets](/assets/readings/L05a.pdf), [Image Classification](/assets/readings/L05b.pdf). Related papers: [Yann LeCun's 1998 LeNet](https://cs.nyu.edu/~yann/2010f-G22-2565-001/diglib/lecun-98.pdf), [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf). 
 | *Tutorial&nbsp;4* | Feb 4  | Convolutional Neural Networks  | [ipynb](https://colab.research.google.com/drive/1sZWrtmHnJPz4p_YOIHbYryrQhsO4DOMD#scrollTo=9OJg-zlR-af2)  | 
 | **Lecture&nbsp;6** | Feb 11/13  | Interpretability  | [Slides](/assets/slides/lec06.pdf)  | Related papers: [Sanity Check for Saliency Maps](http://papers.nips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf), [SmoothGrad](https://arxiv.org/pdf/1706.03825.pdf), [Towards a rigorous science of interpretable machine learning](https://arxiv.org/pdf/1702.08608.pdf). 
-| *Tutorial&nbsp;5* | Feb 11  | Midterm review  |   | 
+| *Tutorial&nbsp;5* | Feb 11  | Midterm review  | [Slides](/assets/tutorials/midterm_review.pdf)  | 
 | **Midterm** | Feb 14  |   | Feb 14, 6 - 8 pm. See above for the details and and past midterms.  | 
