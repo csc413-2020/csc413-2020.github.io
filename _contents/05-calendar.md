@@ -27,3 +27,4 @@ Suggested readings included help you understand the course material. They are no
 | **Lecture&nbsp;8** | Mar 3/5  | Attention and Transformers  | [Slides](/assets/slides/lec08.pdf)  | Related papers: [Neural machine translation](https://arxiv.org/pdf/1409.0473), [Show, attend and tell](https://arxiv.org/abs/1502.03044), [Transformers](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf), [BERT pre-training](https://arxiv.org/pdf/1810.04805.pdf). 
 | *Tutorial&nbsp;7* | Mar 3  | Recurrent Neural Networks  | [Slides](/assets/tutorials/tut7_final.ipynb)  | 
 | *Tutorial&nbsp;8* | Mar 10  | NLP and Transformers  | [Slides](/assets/tutorials/tut8_nlp.pdf)  | 
+| *Tutorial&nbsp;9* | Mar 17  | Information Theory  | [Slides](/assets/tutorials/tut09_infotheory.pdf)  | 
