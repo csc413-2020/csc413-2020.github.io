@@ -14,8 +14,9 @@ image: ""
 | **Programming Assignment 2**   | [pdf](/assets/misc/PA02.pdf), [starter code](https://colab.research.google.com/drive/11sH_zV08QvCAYrGDv83lI9-5mnmln3SV#scrollTo=JyzOT64xkqy6)       | Feb. 12(out), due Feb. 26 
 | **Course Project (CSC2516 only)**   |  [project guideline](/assets/misc/project_handout.pdf)        | Proposal due Mar. 2, final report due April 20. 
 | **Homework 3**   |  [pdf](/assets/misc/HW03.pdf)       | Feb. 27(out), due Mar. 5 
-| **Programming Assignment 3**   |  [pdf](/assets/misc/PA03.pdf), [starter code 1](https://colab.research.google.com/drive/1rHYoCXb96INsxCSc1G4OmZhisnuabsIH) and [starter code 2](https://colab.research.google.com/drive/1QMGZsQ5u7JWuXiwvOhaH_OUd8Cn8E3aw)     | Mar. 9(out), due Mar. 16 
-| **Homework 4**   |          | TBD 
+| **Programming Assignment 3**   |  [pdf](/assets/misc/PA03.pdf), [starter code 1](https://colab.research.google.com/drive/1rHYoCXb96INsxCSc1G4OmZhisnuabsIH) and [starter code 2](https://colab.research.google.com/drive/1QMGZsQ5u7JWuXiwvOhaH_OUd8Cn8E3aw)     | Mar. 9(out), due Mar. 18
+| **Homework 4**   |  [pdf](/assets/misc/HW04.pdf)       | Mar. 17(out), due Mar. 24
+| **Programming Assignment 4**   |          | TBD 
 
 <br/> 
 
