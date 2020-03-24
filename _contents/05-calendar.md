@@ -29,3 +29,4 @@ Suggested readings included help you understand the course material. They are no
 | *Tutorial&nbsp;8* | Mar 10  | NLP and Transformers  | [Slides](/assets/tutorials/tut8_nlp.pdf)  | 
 | **Lecture&nbsp;9** | Mar 17/19  | Autoregressive Models & Generative Adversarial Networks  | [Slides](/assets/slides/lec09.pdf)  | Related papers: [PixelRNNs](https://arxiv.org/abs/1601.06759), [WaveNet](https://arxiv.org/abs/1609.03499), [PixelCNNs](https://arxiv.org/abs/1606.05328), [Generative adversarial networks](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf), [CycleGANs](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf). 
 | *Tutorial&nbsp;9* | Mar 17  | Information Theory  | [Slides](/assets/tutorials/tut09_infotheory.pdf)  | 
+| *Tutorial&nbsp;9* | Mar 24  | Generative Adversarial Networks  | [Slides](/assets/tutorials/tut10_gans.pdf), [ipynb](/assets/tutorials/tut10_gans.ipynb)  | 
