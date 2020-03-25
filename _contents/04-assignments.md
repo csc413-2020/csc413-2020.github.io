@@ -15,8 +15,8 @@ image: ""
 | **Course Project (CSC2516 only)**   |  [project guideline](/assets/misc/project_handout.pdf)        | Proposal due Mar. 2, final report due April 20. 
 | **Homework 3**   |  [pdf](/assets/misc/HW03.pdf)       | Feb. 27(out), due Mar. 5 
 | **Programming Assignment 3**   |  [pdf](/assets/misc/PA03.pdf), [starter code 1](https://colab.research.google.com/drive/1rHYoCXb96INsxCSc1G4OmZhisnuabsIH) and [starter code 2](https://colab.research.google.com/drive/1QMGZsQ5u7JWuXiwvOhaH_OUd8Cn8E3aw)     | Mar. 9(out), due Mar. 18
+| **Homework 4**   |  [pdf](/assets/misc/HW04.pdf)    | Mar. 18(out), due Mar. 24
 | **Homework 4**   |  [pdf](/assets/misc/PA04.pdf), [starter code 1](https://colab.research.google.com/drive/1Jm2csPnWoKZ2DicPDF48Bq_xiukamPif) and [starter code 2](https://colab.research.google.com/drive/1mKk7isQthab5k68FqqcdSJTT4P-7DV-s)       | Mar. 25(out), due Mar. 31
-| **Programming Assignment 4**   |          | TBD 
 | **Homework 5**   |          | TBD 
 
 <br/> 
